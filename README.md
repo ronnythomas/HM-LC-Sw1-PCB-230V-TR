@@ -6,7 +6,7 @@
 * 1x CC1101 Funkmodul **(868 MHz)**
 * 1x FTDI Adapter (wird nur zum Flashen benötigt)
 
-* 1x https://www.reichelt.de/my/1518468
+* 1x https://www.reichelt.de/my/1518474
 
 [Software je nach Projekt](https://github.com/jp112sdl) von Jérôme
 
