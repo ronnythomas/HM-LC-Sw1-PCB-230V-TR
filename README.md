@@ -8,7 +8,9 @@
 
 * 1x https://www.reichelt.de/my/1518474
 
-[Software je nach Projekt](https://github.com/jp112sdl) von Jérôme
+[Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
+
+[Software je nach Projekt](https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-LC-Sw1-Pl-CT-R1/HM-LC-Sw1-Pl-CT-R1.ino) von Jérôme
 
 ![complete](Images/HM-LC-Sw1-PCB-230V-TR.jpg)
 
